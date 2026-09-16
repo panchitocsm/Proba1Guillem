@@ -1,2 +1,2 @@
 # Proba1Guillem
-Aquest es el primer exercici 
+Aquest es el primer
